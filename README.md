@@ -1,6 +1,6 @@
 # SwEng Project 23 Setup Instructions
 
-Welcome to the setup instructions for SwEng Project 23. This document will guide you through setting up the Backend with Blockchain integration and the Frontend for our project.  All code was tested on Windows and Linux (Ubuntu).  To get started, pull the repo from the following link: https://github.com/mccabed7/sweng23/tree/main , and then complete the following steps in order.
+Welcome to the setup instructions for our SwEng Project, built by group 23. This document will guide you through setting up the Backend with Blockchain integration and the Frontend for our project.  All code was tested on Windows and Linux (Ubuntu). All group members and contributors can be found under the "Contributors" tab in the different branches of this repository. To get started, pull the repo from the following link: https://github.com/mccabed7/sweng23/tree/main , and then complete the following steps in order.
 
 ## 1) Backend + Blockchain Setup
 
